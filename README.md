@@ -4,7 +4,6 @@
 
 > *"Menos interfaces para operar, mais sistemas que resolvem o problema de ponta a ponta."*
 
-Transformo processos complexos em soluções digitais autônomas, unindo infraestrutura, desenvolvimento full-stack e inteligência artificial.
 
 ### Áreas de Atuação
 
